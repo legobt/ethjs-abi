@@ -105,7 +105,7 @@
     "number-to-bn": "1.7.0"
   },
   "devDependencies": {
-    "bignumber.js": "3.0.1",
+    "bignumber.js": "9.1.1",
     "babel-cli": "6.18.0",
     "babel-core": "6.18.2",
     "babel-eslint": "7.1.0",
