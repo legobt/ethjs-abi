@@ -146,7 +146,7 @@
     "eslint-plugin-react": "5.1.1",
     "ethereumjs-util": "5.2.1",
     "ethereumjs-vm": "2.4.0",
-    "ethers-wallet": "1.0.8",
+    "ethers-wallet": "1.0.11",
     "eventsource-polyfill": "0.9.6",
     "istanbul": "0.4.5",
     "lint-staged": "1.0.1",
