@@ -136,7 +136,7 @@
     "json-loader": "0.5.4",
     "rimraf": "2.3.4",
     "cross-env": "6.0.3",
-    "chai": "3.5.0",
+    "chai": "4.3.7",
     "eslint": "2.10.1",
     "eslint-config-airbnb": "9.0.1",
     "eslint-import-resolver-webpack": "0.2.4",
