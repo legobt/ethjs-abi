@@ -100,7 +100,7 @@
   },
   "dependencies": {
     "bn.js": "5.2.1",
-    "js-sha3": "0.5.5",
+    "js-sha3": "0.8.0",
     "@ethjs-staging/number-to-bn": "1.7.1-rc0"
   },
   "devDependencies": {
