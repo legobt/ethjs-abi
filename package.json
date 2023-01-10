@@ -23,7 +23,6 @@
     "lint": "npm run lint:js",
     "lint:eslint": "eslint --ignore-path .gitignore --ignore-pattern **/**.min.js",
     "lint:js": "npm run lint:eslint -- . ",
-    "lint:staged": "lint-staged",
     "test:clean": "rimraf ./coverage",
     "test": "mocha ./src/tests/**/*.js -R spec --timeout 2000000",
     "test:coverage": "node ./node_modules/istanbul/lib/cli.js cover ./node_modules/mocha/bin/_mocha -- src/tests/**/*.js -R spec --timeout 2000000",
@@ -148,7 +147,6 @@
     "ethers-wallet": "1.0.11",
     "eventsource-polyfill": "0.9.6",
     "istanbul": "0.4.5",
-    "lint-staged": "1.0.1",
     "mocha": "6.2.3",
     "pre-commit": "1.2.2"
   },
